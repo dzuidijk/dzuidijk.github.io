@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+
+<title>Daniel Zuidijk</title>
+	<link type="text/css" rel="stylesheet" href="personalsite.css"/>
+   
+</head>
+<body>
+<table>
+
+<tr>
+<td class="title"><H1><font size="+6">Daniel Zuidijk</font></H1>
+  <p>Hello</p></td><td><td width="50%"></td> <td>
+	<ul>
+  			
+               <a href="https://medium.com/@dzuidijk"><li><a href="#" class="div hvr-sweep-to-right"><h2>Blog</h2></a></li>
+               <a href="https://medium.com/@dzuidijk"><li><a href="#" class="div hvr-sweep-to-right"><h2>Twitter</h2></a></li>
+               <a href="https://medium.com/@dzuidijk"><li><a href="#" class="div hvr-sweep-to-right"><h2>Email</h2></a></li>
+               <a href="https://medium.com/@dzuidijk"><li><a href="#" class="div hvr-sweep-to-right"><h2>Flickr</h2></a></li>
+                <a href="https://medium.com/@dzuidijk"><li><a href="#" class="div hvr-sweep-to-right"><h2>Instagram</h2></a></li>
+               <a href="https://medium.com/@dzuidijk"><li><a href="#" class="div hvr-sweep-to-right"><h2>Snapchat</h2></a></li>
+                  </ul>
+</td></tr>
+
+
+</table>
+</body>
+</html>
